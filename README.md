@@ -1,2 +1,2 @@
 # dev-stack
-Includes essential libraries, utilities, and setup scripts for efficient development and deployment.
+Includes source with essential libraries, utilities, scripts for development and deployment.
